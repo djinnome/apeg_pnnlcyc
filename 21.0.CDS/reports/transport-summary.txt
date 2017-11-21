@@ -1,0 +1,1604 @@
+Accepted   G1HQV-13551-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-13550-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-13549-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-13530-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-13529-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-17771-MONOMER    Fe2+                     SECONDARY 
+           mitochondrial fe2+ transporter mmt1 and related transporters (cation diffusion facilitator superfamily)
+           Fe2+[periplasm] + H+[periplasm]  ->  Fe2+[cytosol] + H+[cytosol]
+Accepted   G1HQV-17763-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-13477-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-17732-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-17661-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-17660-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-17652-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-17651-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-17592-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1HQV-17569-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-21164-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-21163-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-21161-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-23373-MONOMER    urea                     UNKNOWN   
+           urea transporter
+           urea[periplasm]  <-->  urea[cytosol]
+Accepted   G1HQV-23372-MONOMER    urea                     UNKNOWN   
+           urea transporter
+           urea[periplasm]  <-->  urea[cytosol]
+Accepted   G1HQV-23371-MONOMER    urea                     UNKNOWN   
+           urea transporter
+           urea[periplasm]  <-->  urea[cytosol]
+Accepted   G1HQV-23367-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-23363-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-21111-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1HQV-23345-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-23344-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-23335-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1HQV-23329-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-23328-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-23327-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-21069-MONOMER    urea                     UNKNOWN   
+           urea transporter
+           urea[periplasm]  <-->  urea[cytosol]
+Accepted   G1HQV-26439-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1HQV-26438-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1HQV-26437-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1HQV-21037-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-21036-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-18298-MONOMER    a nucleotide             UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HQV-18298-MONOMER    guanine                  UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HQV-23587-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-23564-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-23563-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-23535-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1HQV-23534-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1HQV-25146-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-25145-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-18181-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1HQV-18180-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1HQV-18173-MONOMER    hydrogencarbonate        UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1HQV-18173-MONOMER    chloride                 UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1HQV-23488-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-23487-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-18154-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-18150-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-23470-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-23469-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-23452-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-18133-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-25081-MONOMER    a nucleotide             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HQV-25081-MONOMER    a nucleoside             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1HQV-18058-MONOMER    a sugar                  UNKNOWN   
+           predicted sugar transporter
+           a sugar[periplasm]  ->  a sugar[cytosol]
+Accepted   G1HQV-18057-MONOMER    a sugar                  UNKNOWN   
+           predicted sugar transporter
+           a sugar[periplasm]  ->  a sugar[cytosol]
+Accepted   G1HQV-21397-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-26604-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-26603-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-21343-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-21337-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-17978-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-21257-MONOMER    K+                       SECONDARY 
+           na+/k+ transporter
+           K+[periplasm] + Na+[periplasm]  ->  K+[cytosol] + Na+[cytosol]
+Accepted   G1HQV-21196-MONOMER    chloride                 CHANNEL   
+           cl- channel clc-3 and related proteins (clc superfamily)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1HQV-26469-MONOMER    a nucleotide             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HQV-26469-MONOMER    a nucleoside             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1HQV-26159-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-26158-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-14594-MONOMER    cholesterol              UNKNOWN   
+           cholesterol transport protein (niemann-pick c disease protein)
+           cholesterol[periplasm]  ->  cholesterol[cytosol]
+Accepted   G1HQV-14497-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1HQV-14370-MONOMER    hydrogencarbonate        UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1HQV-14370-MONOMER    chloride                 UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1HQV-14369-MONOMER    hydrogencarbonate        UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1HQV-14369-MONOMER    chloride                 UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1HQV-25194-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[periplasm] + H+[periplasm]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1HQV-25193-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[periplasm] + H+[periplasm]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1HQV-25171-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1HQV-23631-MONOMER    a nucleotide             UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HQV-23631-MONOMER    guanine                  UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HQV-23630-MONOMER    a nucleotide             UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HQV-23630-MONOMER    guanine                  UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HQV-23590-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-21586-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-21496-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-21443-MONOMER    Ca2+                     SECONDARY 
+           k+-dependent na+:ca2+ antiporter
+           Ca2+[periplasm] + Na+[cytosol]  ->  Ca2+[cytosol] + Na+[periplasm]
+Accepted   G1HQV-21443-MONOMER    K+                       SECONDARY 
+           k+-dependent na+:ca2+ antiporter
+           K+[periplasm] + Na+[cytosol]  ->  K+[cytosol] + Na+[periplasm]
+Accepted   G1HQV-18441-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-18440-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-18439-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-18436-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-18435-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-18370-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1HQV-18358-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-18357-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-18340-MONOMER    D-gluconate              UNKNOWN   
+           gluconate transport-inducing protein
+           D-gluconate[periplasm]  ->  D-gluconate[cytosol]
+Accepted   G1HQV-25331-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-25321-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1HQV-23869-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-23794-MONOMER    uracil                   UNKNOWN   
+           xanthine/uracil transporters
+           uracil[periplasm]  <-  uracil[cytosol]
+Accepted   G1HQV-23794-MONOMER    xanthine                 UNKNOWN   
+           xanthine/uracil transporters
+           xanthine[periplasm]  <-  xanthine[cytosol]
+Accepted   G1HQV-23784-MONOMER    Na+                      SECONDARY 
+           na+/pi symporter
+           Na+[periplasm] + H+[periplasm]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1HQV-23769-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-21708-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-21693-MONOMER    Zn2+                     SECONDARY 
+           putative zn2+ transporter msc2 (cation diffusion facilitator superfamily)
+           Zn2+[periplasm] + H+[periplasm]  ->  Zn2+[cytosol] + H+[cytosol]
+Accepted   G1HQV-21692-MONOMER    Zn2+                     SECONDARY 
+           putative zn2+ transporter msc2 (cation diffusion facilitator superfamily)
+           Zn2+[periplasm] + H+[periplasm]  ->  Zn2+[cytosol] + H+[cytosol]
+Accepted   G1HQV-21646-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1HQV-21643-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-15541-MONOMER    K+                       SECONDARY 
+           na+/k+ transporter
+           K+[periplasm] + Na+[periplasm]  ->  K+[cytosol] + Na+[cytosol]
+Accepted   G1HQV-15526-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1HQV-15525-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1HQV-25423-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-25413-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1HQV-25412-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1HQV-15472-MONOMER    a nucleoside             UNKNOWN   
+           equilibrative nucleoside transporter protein
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1HQV-15443-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1HQV-15440-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1HQV-15439-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1HQV-26503-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[periplasm] + H+[periplasm]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1HQV-26502-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[periplasm] + H+[periplasm]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1HQV-18989-MONOMER    K+                       SECONDARY 
+           na+/k+ transporter
+           K+[periplasm] + Na+[periplasm]  ->  K+[cytosol] + Na+[cytosol]
+Accepted   G1HQV-15432-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-18843-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-18842-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-24018-MONOMER    a nucleotide             UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HQV-24018-MONOMER    guanine                  UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HQV-23988-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1HQV-23961-MONOMER    choline                  UNKNOWN   
+           choline transporter-like protein
+           choline[periplasm]  ->  choline[cytosol]
+Accepted   G1HQV-23960-MONOMER    choline                  UNKNOWN   
+           choline transporter-like protein
+           choline[periplasm]  ->  choline[cytosol]
+Accepted   G1HQV-18754-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[periplasm] + H+[periplasm]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1HQV-18753-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[periplasm] + H+[periplasm]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1HQV-18739-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-18738-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-18737-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-15237-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-15236-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-15177-MONOMER    a bile acid              SECONDARY 
+           bile acid:sodium symporter activity//membrane//sodium ion transport
+           a bile acid[periplasm] + H+[periplasm]  ->  a bile acid[cytosol] + H+[cytosol]
+Accepted   G1HQV-15083-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-15059-MONOMER    oxalate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           oxalate[periplasm]  ->  oxalate[cytosol]
+Accepted   G1HQV-15059-MONOMER    hydrogencarbonate        UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1HQV-15059-MONOMER    sulfate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           sulfate[periplasm]  ->  sulfate[cytosol]
+Accepted   G1HQV-15058-MONOMER    oxalate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           oxalate[periplasm]  ->  oxalate[cytosol]
+Accepted   G1HQV-15058-MONOMER    hydrogencarbonate        UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1HQV-15058-MONOMER    sulfate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           sulfate[periplasm]  ->  sulfate[cytosol]
+Accepted   G1HQV-21903-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1HQV-21902-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1HQV-21889-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1HQV-21866-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-21854-MONOMER    phaseic acid             UNKNOWN   
+           k+-channel erg and related proteins, contain pas/pac sensor domain
+           phaseic acid[periplasm]  ->  phaseic acid[cytosol]
+Accepted   G1HQV-21842-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-25478-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-19363-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-19362-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-19337-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-19330-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-19298-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-19241-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1HQV-19216-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-19212-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-19118-MONOMER    a nucleotide             UNKNOWN   
+           guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HQV-19118-MONOMER    guanine                  UNKNOWN   
+           guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HQV-26630-MONOMER    phaseic acid             UNKNOWN   
+           k+-channel erg and related proteins, contain pas/pac sensor domain
+           phaseic acid[periplasm]  ->  phaseic acid[cytosol]
+Accepted   G1HQV-22098-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-26629-MONOMER    phaseic acid             UNKNOWN   
+           k+-channel erg and related proteins, contain pas/pac sensor domain
+           phaseic acid[periplasm]  ->  phaseic acid[cytosol]
+Accepted   G1HQV-22074-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-22067-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-22047-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-22046-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-22008-MONOMER    a glycan                 UNKNOWN   
+           lectin vip36, involved in the transport of glycoproteins carrying high mannose-type glycans
+           a glycan[periplasm]  ->  a glycan[cytosol]
+Accepted   G1HQV-22003-MONOMER    chloride                 CHANNEL   
+           cl- channel clc-3 and related proteins (clc superfamily)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1HQV-22002-MONOMER    chloride                 CHANNEL   
+           cl- channel clc-3 and related proteins (clc superfamily)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1HQV-21991-MONOMER    Zn2+                     UNKNOWN   
+           zip-like zinc transporter proteins
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1HQV-16084-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-16083-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-16064-MONOMER    a nucleotide             UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HQV-16064-MONOMER    guanine                  UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HQV-15957-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-15956-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-15866-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-24245-MONOMER    Cd2+                     SECONDARY 
+           zn2+ transporter znt1 and related cd2+/zn2+ transporters (cation diffusion facilitator superfamily)
+           Cd2+[periplasm] + Zn2+[periplasm]  ->  Cd2+[cytosol] + Zn2+[cytosol]
+Accepted   G1HQV-26769-MONOMER    Zn2+                     UNKNOWN   
+           putative zinc transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1HQV-15759-MONOMER    oxalate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           oxalate[periplasm]  ->  oxalate[cytosol]
+Accepted   G1HQV-15759-MONOMER    hydrogencarbonate        UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1HQV-15759-MONOMER    sulfate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           sulfate[periplasm]  ->  sulfate[cytosol]
+Accepted   G1HQV-15739-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-15710-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-15670-MONOMER    urea                     UNKNOWN   
+           urea transporter
+           urea[periplasm]  <-->  urea[cytosol]
+Accepted   G1HQV-15583-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-15582-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-25686-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-19654-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1HQV-19635-MONOMER    Cu2+                     UNKNOWN   
+           copper transporter
+           Cu2+[periplasm]  ->  Cu2+[cytosol]
+Accepted   G1HQV-19634-MONOMER    Cu2+                     UNKNOWN   
+           copper transporter
+           Cu2+[periplasm]  ->  Cu2+[cytosol]
+Accepted   G1HQV-19627-MONOMER    a nucleoside             UNKNOWN   
+           equilibrative nucleoside transporter protein
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1HQV-19626-MONOMER    a nucleoside             UNKNOWN   
+           equilibrative nucleoside transporter protein
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1HQV-19611-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-19610-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-22381-MONOMER    Cd2+                     SECONDARY 
+           zn2+ transporter znt1 and related cd2+/zn2+ transporters (cation diffusion facilitator superfamily)
+           Cd2+[periplasm] + Zn2+[periplasm]  ->  Cd2+[cytosol] + Zn2+[cytosol]
+Accepted   G1HQV-22380-MONOMER    Cd2+                     SECONDARY 
+           zn2+ transporter znt1 and related cd2+/zn2+ transporters (cation diffusion facilitator superfamily)
+           Cd2+[periplasm] + Zn2+[periplasm]  ->  Cd2+[cytosol] + Zn2+[cytosol]
+Accepted   G1HQV-19540-MONOMER    a nucleotide             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HQV-19540-MONOMER    a nucleoside             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1HQV-22353-MONOMER    Na+                      SECONDARY 
+           predicted na+-dependent cotransporter
+           Na+[periplasm] + H+[periplasm]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1HQV-22346-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-22345-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-19480-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-22273-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-22257-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-22236-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-22210-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-19391-MONOMER    a nucleotide             UNKNOWN   
+           guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HQV-19391-MONOMER    guanine                  UNKNOWN   
+           guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HQV-19389-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-24410-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1HQV-25735-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-25734-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-25719-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-16553-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[periplasm] + H+[periplasm]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1HQV-22583-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1HQV-22581-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1HQV-22565-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-16484-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1HQV-16457-MONOMER    chromate                 UNKNOWN   
+           chromate transmembrane transporter activity//chromate transport
+           chromate[periplasm]  ->  chromate[cytosol]
+Accepted   G1HQV-22487-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-22486-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-26652-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-22438-MONOMER    uracil                   UNKNOWN   
+           xanthine/uracil transporters
+           uracil[periplasm]  <-  uracil[cytosol]
+Accepted   G1HQV-22438-MONOMER    xanthine                 UNKNOWN   
+           xanthine/uracil transporters
+           xanthine[periplasm]  <-  xanthine[cytosol]
+Accepted   G1HQV-22437-MONOMER    uracil                   UNKNOWN   
+           xanthine/uracil transporters
+           uracil[periplasm]  <-  uracil[cytosol]
+Accepted   G1HQV-22437-MONOMER    xanthine                 UNKNOWN   
+           xanthine/uracil transporters
+           xanthine[periplasm]  <-  xanthine[cytosol]
+Accepted   G1HQV-24465-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-22414-MONOMER    a nucleotide             UNKNOWN   
+           guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HQV-22414-MONOMER    guanine                  UNKNOWN   
+           guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HQV-22413-MONOMER    a nucleotide             UNKNOWN   
+           guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HQV-22413-MONOMER    guanine                  UNKNOWN   
+           guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HQV-19883-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-19928-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1HQV-19929-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1HQV-19874-MONOMER    chloride                 CHANNEL   
+           cl- channel clc-3 and related proteins (clc superfamily)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1HQV-19873-MONOMER    chloride                 CHANNEL   
+           cl- channel clc-3 and related proteins (clc superfamily)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1HQV-19835-MONOMER    a nucleotide             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HQV-19835-MONOMER    a nucleoside             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1HQV-19793-MONOMER    urea                     UNKNOWN   
+           urea transporter
+           urea[periplasm]  <-->  urea[cytosol]
+Accepted   G1HQV-16260-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-16259-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-19765-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-19764-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-16223-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-16222-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-16221-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-16177-MONOMER    Fe2+                     SECONDARY 
+           mitochondrial fe2+ transporter mmt1 and related transporters (cation diffusion facilitator superfamily)
+           Fe2+[periplasm] + H+[periplasm]  ->  Fe2+[cytosol] + H+[cytosol]
+Accepted   G1HQV-24633-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-24589-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1HQV-22584-MONOMER    guanine                  UNKNOWN   
+           pattern-formation protein/guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HQV-26554-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-20159-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-17054-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1HQV-20024-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-20015-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-20008-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-20007-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-17004-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-16983-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-16982-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-16981-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-16973-MONOMER    K+                       SECONDARY 
+           na+/k+ transporter
+           K+[periplasm] + Na+[periplasm]  ->  K+[cytosol] + Na+[cytosol]
+Accepted   G1HQV-16893-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-16861-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-16860-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-24701-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-16827-MONOMER    a siderophore            UNKNOWN   
+           siderophore biosynthetic process//siderophore-iron transmembrane transporter activity
+           a siderophore[periplasm]  ->  a siderophore[cytosol]
+Accepted   G1HQV-16826-MONOMER    a siderophore            UNKNOWN   
+           siderophore biosynthetic process//siderophore-iron transmembrane transporter activity
+           a siderophore[periplasm]  ->  a siderophore[cytosol]
+Accepted   G1HQV-16805-MONOMER    Cd2+                     SECONDARY 
+           zn2+ transporter znt1 and related cd2+/zn2+ transporters (cation diffusion facilitator superfamily)
+           Cd2+[periplasm] + Zn2+[periplasm]  ->  Cd2+[cytosol] + Zn2+[cytosol]
+Accepted   G1HQV-24659-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-16670-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-22951-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-22950-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-22787-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-24754-MONOMER    a nucleotide             UNKNOWN   
+           rho/rac gtpase guanine nucleotide exchange factor smggds/vimar
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HQV-24754-MONOMER    guanine                  UNKNOWN   
+           rho/rac gtpase guanine nucleotide exchange factor smggds/vimar
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HQV-24753-MONOMER    a nucleotide             UNKNOWN   
+           rho/rac gtpase guanine nucleotide exchange factor smggds/vimar
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HQV-24753-MONOMER    guanine                  UNKNOWN   
+           rho/rac gtpase guanine nucleotide exchange factor smggds/vimar
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HQV-20562-MONOMER    a nucleoside             SECONDARY 
+           concentrative na+-nucleoside cotransporter cnt1/cnt2
+           a nucleoside[periplasm] + Na+[periplasm]  ->  a nucleoside[cytosol] + Na+[cytosol]
+Accepted   G1HQV-24740-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1HQV-24739-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1HQV-20510-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-20509-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-20490-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-20489-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-20488-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-20319-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-20318-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-26411-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-26410-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HQV-23101-MONOMER    a cation                 CHANNEL   
+           ca2+-permeable cation channel osm-9 and related channels (otrpc family)
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1HQV-17407-MONOMER    hydrogencarbonate        UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1HQV-17407-MONOMER    chloride                 UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1HQV-17372-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-17166-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-26016-MONOMER    Fe2+                     SECONDARY 
+           mitochondrial fe2+ transporter mmt1 and related transporters (cation diffusion facilitator superfamily)
+           Fe2+[periplasm] + H+[periplasm]  ->  Fe2+[cytosol] + H+[cytosol]
+Accepted   G1HQV-26013-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1HQV-14081-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-14080-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-14079-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-14051-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1HQV-20753-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1HQV-20752-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1HQV-20751-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1HQV-13958-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-13957-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-20743-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-20742-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HQV-13940-MONOMER    D-gluconate              UNKNOWN   
+           gluconate transport-inducing protein
+           D-gluconate[periplasm]  ->  D-gluconate[cytosol]
+Accepted   G1HQV-20684-MONOMER    an inorganic anion       UNKNOWN   
+           inorganic anion transmembrane transporter activity//inorganic anion transport//integral to membrane
+           an inorganic anion[periplasm]  ->  an inorganic anion[cytosol]
+Accepted   G1HQV-23250-MONOMER    a nucleotide             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HQV-23250-MONOMER    a nucleoside             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1HQV-20683-MONOMER    an inorganic anion       UNKNOWN   
+           inorganic anion transmembrane transporter activity//inorganic anion transport//integral to membrane
+           an inorganic anion[periplasm]  ->  an inorganic anion[cytosol]
+Accepted   G1HQV-20635-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1HQV-23143-MONOMER    a dicarboxylate          SECONDARY 
+           na+/dicarboxylate, na+/tricarboxylate and phosphate transporters
+           a dicarboxylate[periplasm] + Na+[periplasm]  ->  a dicarboxylate[cytosol] + Na+[cytosol]
+Accepted   G1HQV-23142-MONOMER    a dicarboxylate          SECONDARY 
+           na+/dicarboxylate, na+/tricarboxylate and phosphate transporters
+           a dicarboxylate[periplasm] + Na+[periplasm]  ->  a dicarboxylate[cytosol] + Na+[cytosol]
+Accepted   G1HQV-23141-MONOMER    a dicarboxylate          SECONDARY 
+           na+/dicarboxylate, na+/tricarboxylate and phosphate transporters
+           a dicarboxylate[periplasm] + Na+[periplasm]  ->  a dicarboxylate[cytosol] + Na+[cytosol]
+Accepted   G1HQV-23140-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1HQV-23112-MONOMER    Na+                      SECONDARY 
+           na+/pi symporter
+           Na+[periplasm] + H+[periplasm]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1HQV-13775-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HQV-13764-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1HQV-13763-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1HQV-26088-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1HQV-26078-MONOMER    Na+                      SECONDARY 
+           na+/pi symporter
+           Na+[periplasm] + H+[periplasm]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1HQV-26049-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1HQV-26427-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1HQV-26426-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1HQV-13701-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Unreviewed G1HQV-17592-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+Unreviewed G1HQV-23412-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HQV-23335-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+Unreviewed G1HQV-25134-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HQV-26163-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HQV-26162-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HQV-14501-MONOMER    Na+                      SECONDARY 
+           na+/h+ antiporter
+           Several possible reactions available for import
+Unreviewed G1HQV-23698-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HQV-23697-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HQV-18597-MONOMER    K+                       UNKNOWN   
+           membrane//potassium ion transmembrane transporter activity//potassium ion transport
+           Several possible reactions available for import
+Unreviewed G1HQV-18596-MONOMER    K+                       UNKNOWN   
+           membrane//potassium ion transmembrane transporter activity//potassium ion transport
+           Several possible reactions available for import
+Unreviewed G1HQV-18595-MONOMER    K+                       UNKNOWN   
+           membrane//potassium ion transmembrane transporter activity//potassium ion transport
+           Several possible reactions available for import
+Unreviewed G1HQV-18446-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HQV-18445-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HQV-15560-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HQV-15559-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HQV-18883-MONOMER    K+                       CHANNEL   
+           tandem pore domain k+ channel
+           Several possible reactions available for import
+Unreviewed G1HQV-18882-MONOMER    K+                       CHANNEL   
+           tandem pore domain k+ channel
+           Several possible reactions available for import
+Unreviewed G1HQV-19324-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HQV-19323-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HQV-15973-MONOMER    Na+                      SECONDARY 
+           na+/h+ antiporter
+           Several possible reactions available for import
+Unreviewed G1HQV-15972-MONOMER    Na+                      SECONDARY 
+           na+/h+ antiporter
+           Several possible reactions available for import
+Unreviewed G1HQV-24272-MONOMER    H+                       SECONDARY 
+           integral to membrane//regulation of ph//solute:hydrogen antiporter activity
+           Several possible reactions available for import
+Unreviewed G1HQV-24254-MONOMER    K+                       UNKNOWN   
+           predicted k+/h+-antiporter
+           Several possible reactions available for import
+Unreviewed G1HQV-15645-MONOMER    Na+                      SECONDARY 
+           na+/h+ antiporter
+           Several possible reactions available for import
+Unreviewed G1HQV-19654-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+Unreviewed G1HQV-22269-MONOMER    Na+                      SECONDARY 
+           na+/h+ antiporter
+           Several possible reactions available for import
+Unreviewed G1HQV-24428-MONOMER    Na+                      SECONDARY 
+           na+/h+ antiporter
+           Several possible reactions available for import
+Unreviewed G1HQV-24427-MONOMER    Na+                      SECONDARY 
+           na+/h+ antiporter
+           Several possible reactions available for import
+Unreviewed G1HQV-24410-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+Unreviewed G1HQV-19726-MONOMER    H+                       SECONDARY 
+           integral to membrane//regulation of ph//solute:hydrogen antiporter activity
+           Several possible reactions available for import
+Unreviewed G1HQV-24558-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HQV-24557-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HQV-17055-MONOMER    H+                       SECONDARY 
+           integral to membrane//regulation of ph//solute:hydrogen antiporter activity
+           Several possible reactions available for import
+Unreviewed G1HQV-22986-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HQV-20903-MONOMER    Ca2+                     UNKNOWN   
+           voltage-gated ca2+ channels, alpha1 subunits
+           Several possible reactions available for import
+Unreviewed G1HQV-26088-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+Unreviewed G1HQV-13701-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+
+
+Unreviewed G1HQV-13438-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13441-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13448-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13449-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13459-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13492-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13504-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13515-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13516-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13520-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13571-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13572-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13579-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13580-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13680-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13681-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13767-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13768-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13781-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13794-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13915-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13918-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13919-MONOMER  (no substrate identified)
+Unreviewed G1HQV-13991-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14014-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14048-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14058-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14074-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14075-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14103-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14105-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14110-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14111-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14155-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14189-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14190-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14201-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14220-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14235-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14264-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14270-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14284-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14296-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14297-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14309-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14412-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14463-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14502-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14516-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14519-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14553-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14593-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14596-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14612-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14613-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14616-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14630-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14640-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14702-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14718-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14768-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14769-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14780-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14855-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14880-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14881-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14882-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14900-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14901-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14909-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14966-MONOMER  (no substrate identified)
+Unreviewed G1HQV-14969-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15072-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15287-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15335-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15350-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15375-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15376-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15462-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15496-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15497-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15534-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15535-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15565-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15566-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15580-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15606-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15613-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15633-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15707-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15748-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15779-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15811-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15812-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15856-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15857-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15910-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15911-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15969-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15977-MONOMER  (no substrate identified)
+Unreviewed G1HQV-15979-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16001-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16126-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16131-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16132-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16147-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16148-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16166-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16239-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16298-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16299-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16380-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16381-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16423-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16460-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16486-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16487-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16523-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16531-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16540-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16541-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16549-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16550-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16554-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16596-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16597-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16598-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16602-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16675-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16718-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16829-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16830-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16884-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16911-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16969-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16980-MONOMER  (no substrate identified)
+Unreviewed G1HQV-16994-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17018-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17019-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17025-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17026-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17084-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17093-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17094-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17097-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17144-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17213-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17234-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17241-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17242-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17243-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17250-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17258-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17259-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17262-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17263-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17264-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17279-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17342-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17351-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17352-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17363-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17469-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17477-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17519-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17520-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17596-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17597-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17598-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17615-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17777-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17833-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17834-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17835-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17852-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17909-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17910-MONOMER  (no substrate identified)
+Unreviewed G1HQV-17992-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18054-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18095-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18096-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18162-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18163-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18164-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18233-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18296-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18297-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18353-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18354-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18399-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18423-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18481-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18487-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18491-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18495-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18678-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18679-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18699-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18700-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18705-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18714-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18725-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18735-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18765-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18806-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18811-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18812-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18834-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18874-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18879-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18947-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18948-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18978-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18994-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18995-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18997-MONOMER  (no substrate identified)
+Unreviewed G1HQV-18998-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19008-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19009-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19032-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19058-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19059-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19166-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19213-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19214-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19224-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19225-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19282-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19290-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19291-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19302-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19303-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19305-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19306-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19333-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19334-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19348-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19349-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19351-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19352-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19353-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19359-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19365-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19369-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19382-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19383-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19464-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19473-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19474-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19495-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19608-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19649-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19671-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19679-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19680-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19715-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19717-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19783-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19797-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19798-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19801-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19850-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19858-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19897-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19898-MONOMER  (no substrate identified)
+Unreviewed G1HQV-19951-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20013-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20014-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20030-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20031-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20046-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20063-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20219-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20230-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20236-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20237-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20252-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20258-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20259-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20308-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20313-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20344-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20361-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20414-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20459-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20531-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20532-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20544-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20546-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20804-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20805-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20841-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20842-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20854-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20869-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20874-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20877-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20930-MONOMER  (no substrate identified)
+Unreviewed G1HQV-20978-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21016-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21022-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21027-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21043-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21066-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21071-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21082-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21131-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21132-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21182-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21249-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21256-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21318-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21330-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21362-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21365-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21399-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21492-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21513-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21562-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21629-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21640-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21657-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21726-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21727-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21728-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21729-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21738-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21801-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21872-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21895-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21912-MONOMER  (no substrate identified)
+Unreviewed G1HQV-21916-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22068-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22069-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22070-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22071-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22081-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22092-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22093-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22101-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22134-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22196-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22197-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22214-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22219-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22222-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22292-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22369-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22395-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22400-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22454-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22455-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22456-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22468-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22469-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22503-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22512-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22515-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22516-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22518-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22531-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22717-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22729-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22772-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22808-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22823-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22824-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22849-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22943-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22944-MONOMER  (no substrate identified)
+Unreviewed G1HQV-22965-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23004-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23068-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23082-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23246-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23257-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23288-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23346-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23354-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23355-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23381-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23399-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23441-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23463-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23486-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23489-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23565-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23566-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23588-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23764-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23789-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23790-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23799-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23804-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23856-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23876-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23877-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23898-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23899-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23915-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23916-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23917-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23982-MONOMER  (no substrate identified)
+Unreviewed G1HQV-23986-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24002-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24028-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24059-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24219-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24220-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24243-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24255-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24256-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24263-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24330-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24331-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24385-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24386-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24387-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24401-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24477-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24498-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24607-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24624-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24661-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24662-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24665-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24671-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24836-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24859-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24860-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24870-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24876-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24877-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24884-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24918-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24940-MONOMER  (no substrate identified)
+Unreviewed G1HQV-24954-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25028-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25139-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25166-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25232-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25233-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25252-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25253-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25297-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25330-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25443-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25551-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25616-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25617-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25739-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25740-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25754-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25816-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25817-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25895-MONOMER  (no substrate identified)
+Unreviewed G1HQV-25971-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26012-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26015-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26034-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26064-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26070-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26113-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26190-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26232-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26233-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26247-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26267-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26314-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26389-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26390-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26391-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26392-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26447-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26448-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26486-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26487-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26553-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26595-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26596-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26646-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26647-MONOMER  (no substrate identified)
+Unreviewed G1HQV-26648-MONOMER  (no substrate identified)
