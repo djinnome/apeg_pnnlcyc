@@ -1,0 +1,17 @@
+ID	g11176.t1
+NAME	Predicted Yippee-type zinc-binding protein
+STARTBASE	1
+ENDBASE	708
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG3399
+FUNCTION	Predicted Yippee-type zinc-binding protein
+//
+ID	g11177.t1
+NAME	Cell cycle-regulated histone H1-binding protein
+STARTBASE	2509
+ENDBASE	1095
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG4563
+INTRON	1377-1438
+FUNCTION	Cell cycle-regulated histone H1-binding protein
+//
