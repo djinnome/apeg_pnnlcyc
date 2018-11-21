@@ -1,0 +1,13 @@
+ID	g11409.t1
+NAME	Small Nuclear ribonucleoprotein splicing factor
+STARTBASE	1
+ENDBASE	761
+PRODUCT-TYPE	P
+DBLINK	KOG:KOG1782
+DBLINK	GO:0016071
+DBLINK	GO:0030529
+INTRON	251-310
+INTRON	380-436
+INTRON	445-590
+FUNCTION	Small Nuclear ribonucleoprotein splicing factor
+//
